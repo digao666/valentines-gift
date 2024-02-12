@@ -1,0 +1,16 @@
+.title {
+    text-align: center;
+}
+
+.game-box {
+    width: 100%;
+    height: 80vh;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center; 
+}
+
+.game {
+    width: 400px;
+    height: 400px;
+}
