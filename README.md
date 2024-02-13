@@ -29,4 +29,4 @@ npm run dev
 ```
 
 ## Credit
-The assets used were taken from the game "Stardew Valley", and all rights belong to the original game creator, ConcernApe. A link to buy the game can be found here - [Stardew Valley](https://www.stardewvalley.net/)
+The assets used were taken from the game "Stardew Valley", and all rights belong to the original game creator, ConcernedApe. A link to buy the game can be found here - [Stardew Valley](https://www.stardewvalley.net/)
