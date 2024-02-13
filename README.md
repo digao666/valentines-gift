@@ -17,7 +17,7 @@ These are the tools used:
 - React (JavaScript)
 - Vite
 - Phaser 3
-- ChatGPT 3.5
+- ChatGPT 3.5 <3
 
 ## How to Run
 Installation steps are simple. Just follow these commands:
