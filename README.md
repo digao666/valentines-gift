@@ -7,7 +7,7 @@ So, here we go, a ***very*** dodgy implementation of the fishing game. Complete 
 
 If I were to make this again, I would perhaps start earlier. Bad jokes aside, I would create a couple more demo games in Phaser 3 or even another game engine like Godot. This would give me the confidence to deliver a more polished game. Plus, I would need to work more on the asset part (sprites, animations, sound, etc.).
 
-Feel free to modify this and make it better, and perhaps give it to someone you like. The GitHub Pages' deployment can be found here - https://mushi333.github.io/valentines-gift/
+Feel free to modify this and make it better, and perhaps give it to someone you like. *Disclaimer*, this currently only works in applications with a desktop view, as there isn't any scaling with mobile devices. The GitHub Pages' deployment can be found here - https://mushi333.github.io/valentines-gift/
 
 
 ![Screenshot of the simple fishing game](game.png)
