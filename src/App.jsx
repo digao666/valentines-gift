@@ -6,7 +6,7 @@ function App() {
       <div className="title">
         <h1>Stardew Valley Fishing Game</h1>
         <h3>
-          Happy Valentine's, dear Sarah. I have made this game just for you!{" "}
+          Happy Valentine's, dear Ruby. I have made this game just for you!{" "}
         </h3>
       </div>
       <div className="game-box">
