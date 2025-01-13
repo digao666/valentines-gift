@@ -3,7 +3,7 @@
 ## About
 With Valentine's coming up, I was thinking of what gift to give to my girlfriend. I knew she liked Stardew Valley.
 
-![Screenshot of the simple fishing game](game.png)
+![Screenshot of the simple fishing game](example.png)
 
 ## Tools Used
 These are the tools used:
