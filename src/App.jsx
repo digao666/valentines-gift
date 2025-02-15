@@ -10,7 +10,7 @@ function App() {
         </h3>
       </div>
       <div className="game-box">
-        <iframe width={1020} height={820} src="./game.html"></iframe>
+        <iframe width="100%" height="100%" src="./game.html"></iframe>
       </div>
     </>
   );
